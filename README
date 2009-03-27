@@ -1,0 +1,11 @@
+libxrds, a C library for XRDS-Simple 1.0 Draft 1.
+
+A PHP extension is included which should provide a good
+starting point for other implementations.
+
+=== BUILDING AND INSTALLING ===
+
+To build the library use >=cmake-2.6 and issue the following commands:
+
+$ cmake .
+$ make && make install
